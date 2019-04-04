@@ -44,7 +44,7 @@ In order to uninstall it you can use Visual Studio _Build_ > _Clean Solution_ co
 ### Sample 1
 1. Open the ribbon tab called _Add-Ins_.
 2. Click on the button you will found on the _Rhinoceros_ panel called _Sample 1_.
-3. You should have an sphere in the Revil model.
+3. You should have an sphere in the Revit model.
 
 ### Sample 2
 ![](doc/Sample2.jpg)
